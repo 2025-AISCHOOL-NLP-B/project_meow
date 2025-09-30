@@ -1,9 +1,13 @@
 # 🐱 Meow Git
 
-![GitHub stars](https://img.shields.io/github/stars/username/meow_Git?style=social)
-![GitHub forks](https://img.shields.io/github/forks/username/meow_Git?style=social)
+![GitHub stars](https://img.shields.io/github/stars/2025-AISCHOOL-NLP-B/project_meow?style=social)
+![GitHub forks](https://img.shields.io/github/forks/2025-AISCHOOL-NLP-B/project_meow?style=social)
 
 고양이의 귀여움을 극찬하는 인터랙티브 웹사이트 프로젝트입니다.
+
+<div align="center">
+  <img src="cat.jpg" alt="Cute Cat" width="600">
+</div>
 
 ## 📖 프로젝트 소개
 
